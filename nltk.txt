@@ -1,2 +1,6 @@
 punkt
 wordnet
+WordNetLemmatizer
+nltk.stem
+json
+pickle
