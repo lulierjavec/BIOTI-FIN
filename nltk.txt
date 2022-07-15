@@ -1,2 +1,6 @@
+names
 punkt
+words
 wordnet
+wordnet_ic
+averaged_perceptron_tagger
